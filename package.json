@@ -1,0 +1,7 @@
+{
+  "name": "user.workflow.810812A1-9B9B-4F6C-A6A1-C2BF36234950",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module"
+}
